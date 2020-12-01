@@ -13,7 +13,7 @@ The project is implemented using:
 
 ## Setup
 To run this project, you have to install:
-* Anconda Navigator: it will include all the required libraries
+* Anconda Navigator: it will include all the required libraries and just run it.
  
 ## Files
 * Weather-dataset.py-----> Extract Weather Information worldwide from the nearest station
